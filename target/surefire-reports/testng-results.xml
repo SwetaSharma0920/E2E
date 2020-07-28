@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="121" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="121" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+      <class name="MVNProject.MavenJAVA.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:MVNProject.MavenJAVA.RestAPITest@10bdf5e5]" name="DeleteTwitter" duration-ms="0" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:MVNProject.MavenJAVA.RestAPITest@10bdf5e5]" name="PostJira" duration-ms="1" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- MVNProject.MavenJAVA.RestAPITest -->
+      <class name="MVNProject.MavenJAVA.AppiumTest">
+        <test-method status="PASS" signature="AndroidApps()[pri:0, instance:MVNProject.MavenJAVA.AppiumTest@148080bb]" name="AndroidApps" duration-ms="12" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApps -->
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:MVNProject.MavenJAVA.AppiumTest@148080bb]" name="IOSApps" duration-ms="16" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+      </class> <!-- MVNProject.MavenJAVA.AppiumTest -->
+      <class name="MVNProject.MavenJAVA.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:MVNProject.MavenJAVA.SeleniumTest@dc24521]" name="BrowserAutomation" duration-ms="1" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:MVNProject.MavenJAVA.SeleniumTest@dc24521]" name="ElementsUI" duration-ms="0" started-at="2020-07-07T19:03:49 EDT" finished-at="2020-07-07T19:03:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- MVNProject.MavenJAVA.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
